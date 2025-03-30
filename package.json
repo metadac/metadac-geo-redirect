@@ -1,0 +1,11 @@
+{
+  "name": "metadac-geo-redirect",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "wrangler dev",
+    "publish": "wrangler publish"
+  },
+  "devDependencies": {
+    "wrangler": "latest"
+  }
+}
